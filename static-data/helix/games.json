@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/32399_IGDB-{width}x{height}.jpg",
+      "igdb_id": "1372"
+    },
+    {
+      "id": "490422",
+      "name": "StarCraft II",
+      "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/490422-{width}x{height}.jpg",
+      "igdb_id": ""
+    },
+    {
+      "id": "492546",
+      "name": "Star Wars Battlefront II",
+      "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/492546-{width}x{height}.jpg",
+      "igdb_id": "26401"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "twitch-api-passthrough",
+  "version": "2.1.0",
+  "description": "Twitch API passthrough server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@seald-io/nedb": "2.2.2",
+    "cors": "2.8.5",
+    "dotenv": "14.3.2",
+    "express": "5.0.0-alpha.8",
+    "request": "2.88.2",
+    "winston": "3.8.2",
+    "winston-daily-rotate-file": "3.10.0"
+  },
+  "license": "MIT"
+}

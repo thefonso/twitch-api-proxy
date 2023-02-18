@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": "47971602941",
+      "user_id": "26490481",
+      "user_login": "summit1g",
+      "user_name": "summit1g",
+      "game_id": "492546",
+      "game_name": "Star Wars Battlefront II",
+      "type": "live",
+      "title": "chilin. - !gfuel !merch - @summit1g",
+      "viewer_count": 17245,
+      "started_at": "2023-02-15T00:18:31Z",
+      "language": "en",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-{width}x{height}.jpg",
+      "tag_ids": ["6ea6bca4-4712-4ab9-a906-e3336a9d8039"],
+      "tags": ["English"],
+      "is_mature": false
+    },
+    {
+      "id": "39339880837",
+      "user_id": "31239503",
+      "user_login": "esl_csgo",
+      "user_name": "ESL_CSGO",
+      "game_id": "32399",
+      "game_name": "Counter-Strike: Global Offensive",
+      "type": "live",
+      "title": "RERUN: Heroic vs. G2 - Map 4 [Ancient] - IEM Katowice 2023 - Grand Final",
+      "viewer_count": 1640,
+      "started_at": "2023-02-15T02:08:39Z",
+      "language": "en",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esl_csgo-{width}x{height}.jpg",
+      "tag_ids": [
+        "36a89a80-4fcd-4b74-b3d2-2c6fd9b30c95",
+        "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+        "3e10beee-52d8-4e68-89b7-dc4f20a47f86"
+      ],
+      "tags": null,
+      "is_mature": false
+    },
+    {
+      "id": "39339336597",
+      "user_id": "30220059",
+      "user_login": "esl_sc2",
+      "user_name": "ESL_SC2",
+      "game_id": "490422",
+      "game_name": "StarCraft II",
+      "type": "live",
+      "title": "RERUN: RagnaroK vs Oliveira - IEM Katowice 2023 - Group A",
+      "viewer_count": 545,
+      "started_at": "2023-02-14T20:45:35Z",
+      "language": "en",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_esl_sc2-{width}x{height}.jpg",
+      "tag_ids": [
+        "36a89a80-4fcd-4b74-b3d2-2c6fd9b30c95",
+        "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+      ],
+      "tags": ["Esports", "English"],
+      "is_mature": false
+    }
+  ],
+  "pagination": {
+    "cursor": "eyJiIjp7IkN1cnNvciI6ImV5SnpJam94TnpJME5TNHlNak0zT1RFMk5qZzBOelVzSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCJhIjp7IkN1cnNvciI6IiJ9fQ"
+  }
+}
